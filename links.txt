@@ -1,0 +1,14 @@
+OFFLINE STT
+
+- httpsjasperproject.github.iodocumentationinstallation
+- httpsgithub.commozillaDeepSpeechwiki
+- httpsgithub.comjulius-speechjulius
+- httpswolfpaulus.comembeddedraspberrypi2-sr
+- httpswww.bishoph.orgstep-by-step-raspberry-pi-offline-voice-recognition-with-sopare
+- httpswww.alatortsev.com20180628speech-processing-on-raspberry-pi-3-b
+- httpswww.raspberrypi.orgforumsviewtopic.phpt=216638
+
+
+
+
+
