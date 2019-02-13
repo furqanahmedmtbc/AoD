@@ -1,20 +1,18 @@
-#import urllib.request
 import urllib2
+import requests
 
-service_url = "https://blockchainapi.talkehr.com/api/Allison/GetResponse?sentence="
-query="How many messages for today?"
+
+service_url = "https://testingapi.talkehr.com/api/Utillity/AllisonResponse?sentence="
+header = {"KEY": "CASH-224-EHR-446-5002"}
+
+query="How many messages for today"
 query= urllib2.quote(query)
 
 myurl = service_url + query
 
 print(myurl)
 
-contents = urllib2.urlopen(myurl).read()
+r=requests.get(myurl, headers=header)
+print(r)
+print(r.text)
 
-
-response = contents.decode("utf-8")
-
-response = response.replace("%20"," ")
-
-print(contents)
-print(response)
