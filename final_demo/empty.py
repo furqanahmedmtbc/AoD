@@ -1,6 +1,7 @@
-allison any status update
-allison who is my first patient for today
-allison who is my next patient
-allison how many appointment do i have for today
-allison when was last time patient was immunized 
-allison when was next well visit due for this patient
+how many messages for today
+ho is my first patient for today
+who is my next patient
+how many appointment do i have for today
+when was last time patient was immunized 
+when was next well visit due for this patient
+any status update
